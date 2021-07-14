@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="cardHeadLine" type="id" />
+    <item name="cardSports" type="id" />
+    <item name="cardTechno" type="id" />
+    <item name="cardBusiness" type="id" />
+    <item name="cardHealth" type="id" />
+    <item name="cardEnter" type="id" />
+    <item name="tvDate" type="id" />
+    <item name="rvNews" type="id" />
+    <item name="tbNews" type="id" />
+    <item name="progress_bar" type="id" />
+    <item name="read_news" type="id" />
+    <item name="share" type="id" />
+    <item name="tbOpenNews" type="id" />
+    <item name="list_item_berita" type="id" />
+</resources>
